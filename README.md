@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a Go application.<br>
- I’m currently working in Rust too.
+🔭 I’m currently working on Rust and Go applications.<br>
+
 <!--
 **donlook/donlook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
